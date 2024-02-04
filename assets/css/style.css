@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    
+}
+
+body{
+    background-color: black !important;
+    font-family: "Open Sans";
+}
+
+.logonavbar{
+    height: 25px;
+}
+.fontnavbar{
+    font-size: 20px;
+}
+
+.carousel{
+    border:none;
+}
+
+.navbar{
+    font-weight: 100;
+}
+
+#quienessomos{
+    text-align: center;
+}
+
+.quienessomostext{
+    padding-top: 50px;
+    font-weight: 100;
+    color:white !important;
+    font-size: 160%;
+    text-transform: uppercase;
+}
+
+.icon{
+    margin: 10px;
+    background-color: rgb(0, 208, 255);
+    border: 1px solid rgb(0, 208, 255);
+    padding: 1px;   
+    color: white;
+    text-align: center;
+}
+
+.col{
+    text-align: left;
+    justify-content: center;
+    color: white;
+}
+
+.tarjetas{
+    padding-top: 100px;
+    margin-left: 80px !important;
+    margin-right: 80px;
+    align-items: center;
+}
+
+#destacados{
+    text-align: center;
+}
+
+.contactos{
+    margin-left: 10%;
+    height: 200%;
+    width: 80%;
+    color: white;
+    margin-bottom: 5%;
+}
+
+#contacto{
+    text-align: center;
+}
+
+.footertext{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 100;
+    color:white !important;
+    font-size: 160%;
+    text-transform: uppercase;
+}
+
